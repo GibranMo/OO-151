@@ -1,0 +1,4 @@
+(The following text demonstrates the template of a ‘.slideshow’ file. For an example template look at the ‘slide10.slideshow’ file )
+
+caption for image /local/path/to/image x-size(for the image) y-size
+* /path/where/this/file/is/saved/nameOfThisFile.slideshow
